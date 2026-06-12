@@ -4,7 +4,7 @@
 ├────────────────────────────────────────────────────────┤
 │ Name      : Facundo Báez                               │
 │ Role      : Principal Engineer                         │
-│ Focus     : Developement · Cloud · Project Management   │
+│ Focus     : Developement · Cloud · Project Management  │
 │ Location  : Argentina                                  │
 ├────────────────────────────────────────────────────────┤
 │ GitHub    : baezfacundo                                │
