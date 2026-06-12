@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**baezfacundo/baezfacundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+┌────────────────────────────────────────────────────────┐
+│ facundo@cloud:~$ status                                │
+├────────────────────────────────────────────────────────┤
+│ Name      : Facundo Báez                               │
+│ Role      : Principal Engineer                         │
+│ Focus     : Developement · Cloud · Project Managment   │
+│ Location  : Argentina                                  │
+├────────────────────────────────────────────────────────┤
+│ GitHub    : baezfacundo                                │
+│ LinkedIn  : facundobaez                                │
+│ Website   : baezfacundo.github.io                      │
+│ Email     : facundo.baez@gmail.com                     │
+└────────────────────────────────────────────────────────┘
+```
